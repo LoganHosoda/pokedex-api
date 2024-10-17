@@ -1,0 +1,15 @@
+{
+  "name": "pokedex-api",
+  "version": "1.0.0",
+  "description": "Contains a collection of 1st generation pokemon data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Logan Hosoda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongodb": "^6.9.0"
+  }
+}
