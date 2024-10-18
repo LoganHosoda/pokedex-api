@@ -4,7 +4,8 @@
   "description": "Contains a collection of 1st generation pokemon data",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch --env-file=.env server.js"
   },
   "author": "Logan Hosoda",
   "license": "ISC",
